@@ -1,0 +1,11 @@
+*.bat
+*.exe
+*.json
+*.dll
+build/
+music/
+include/
+graphics/
+lib/
+bin/
+.vs/
